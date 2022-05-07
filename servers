@@ -12,6 +12,7 @@
       "port": 25565,
       "consolePort": 19132
     },
+    "playersOnline": 0,
     "maxOnline": 10100,
     "offline": false
   },
@@ -28,6 +29,7 @@
       "port": 25565,
       "consolePort": 19132
     },
+    "playersOnline": 0,
     "maxOnline": 1500,
     "offline": false
   }
