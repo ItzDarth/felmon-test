@@ -1,0 +1,34 @@
+[
+  {
+    "worldId": 1,
+    "name": "SMP",
+    "description": "Выживание гы.",
+    "branding": {
+      "icon": "https://routing.nftworlds.com/ipfs/QmZqqaeeiHaknF33o6raMHm1wMNnBEveGJis7qybTo3ACw",
+      "banner": "https://routing.nftworlds.com/ipfs/QmY45GLwq7jXzo6D63UU41DHRxD8Vry9ymWAuYt8iNhPVR"
+    },
+    "connection": {
+      "address": "smp.felmon.com",
+      "port": 25565,
+      "consolePort": 19132
+    },
+    "playersOnline": 1326,
+    "maxOnline": 10100
+  },
+  {
+    "worldId": 2,
+    "name": "RPG",
+    "description": "Ну типо это круто наверно да",
+    "branding": {
+      "icon": "https://routing.nftworlds.com/ipfs/QmRFVhtmKeeTyJ7sGT75R3rbiAn15yPhP5mmECLm13ShkZ",
+      "banner": "https://routing.nftworlds.com/ipfs/QmUmoCfTNW7gFwtSijaCuDw2ftmxuQZnBw8Y6Ts1CJQstg"
+    },
+    "connection": {
+      "address": "play.felmon.com",
+      "port": 25565,
+      "consolePort": 19132
+    },
+    "playersOnline": 20,
+    "maxOnline": 1500
+  }
+]
