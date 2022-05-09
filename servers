@@ -14,7 +14,7 @@
             "id": "SMP-1.18.2",
             "name": "Сервер SMP",
             "description": "Великолепнейший сервер.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "icon": "https://img.icons8.com/ios-filled/344/minecraft-pickaxe.png",
             "version": "1.0.0",
             "address": "smp.felmonproject.ru",
             "minecraftVersion": "1.18.2",
